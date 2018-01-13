@@ -1,0 +1,42 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background-image: url("WebContent/Images/background.jpg");
+	
+}
+	
+h1 {
+	font-size: 500%;
+	position: relative;
+	text-align:center;
+	width: 100%;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal,
+		"Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black",
+		"sans serif";
+	letter-spacing: 0.2em;
+	text-transform: uppercase;
+	color: #970000;
+	background-image:url("../Images/romhead.jpg");
+	background-position:center-top;
+	line-height:4.4em;
+}
+
+p.head{
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",
+		Geneva, Verdana, sans-serif;
+		text-transform:uppercase;
+		font-weight:bold;
+	
+}
+.bloc {
+	float: right;
+	position: relative;
+	background-color: #F8AEAE;
+	float: right;
+}
+ul.list{
+	 list-style-type:square;
+	 color:#740101;
+	 
+}
+
